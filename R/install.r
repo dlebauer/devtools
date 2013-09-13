@@ -24,7 +24,7 @@
 #'   artefacts in your package directory, but is considerably faster, and does
 #'   not require a recompile every time you run it.
 #' @param args An optional character vector of additional command line
-#'   arguments to bew passed to \code{R CMD install}. This defaults to the
+#'   arguments to be passed to \code{R CMD install}. This defaults to the
 #'   value of the option \code{"devtools.install.args"}.
 #' @param quiet if \code{TRUE} suppresses output from this function.
 #' @param dependencies \code{logical} indicating to also install uninstalled
